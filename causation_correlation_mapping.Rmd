@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Causal Model: **z -> x -> y**
 
+![options](docs/xyz_options_with_xy_fixed.jpg)
+
 #### Synthesizing data
 ```{r}
 sample_size = 1000
