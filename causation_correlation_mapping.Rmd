@@ -8,8 +8,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Causal Model: **z -> x -> y**
-
-![options](docs/xyz_options_with_xy_fixed.jpg)
+These are the options possible:
+![](docs/xyz_options_with_xy_fixed.jpg)
 
 #### Synthesizing data
 ```{r}
